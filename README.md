@@ -21,4 +21,4 @@
   Contacts
   --------
 
-  The main point of contact for anything regarding this course is MackayA1@cardiff.ac.uk. The main course page is available at http://scott3142.com/ugmatlab
+  The main point of contact for anything regarding this course is smorgan@bridgend.ac.uk. The main course page is available at http://scott3142.com/ugmatlab
